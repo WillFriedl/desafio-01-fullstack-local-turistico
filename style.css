@@ -8,12 +8,28 @@
   font-family: "Open Sans", sans-serif;
 }
 
-#page {
-  margin: 88px auto;
+body {
+  background-color: #29292E;
 }
 
-main {
-  margin: auto;
+#page {
+  width: 1280px;
+  background-color: white;
+  margin: 88px auto;
+  padding: 88px 80px;
+}
+
+header p {
+  text-align: center;
+  margin-bottom: 104px;
+}
+
+header legend {
+  margin-bottom: 2px;
+}
+
+header img {
+  margin: 40px 0 24px;
 }
 
 legend {
@@ -32,8 +48,12 @@ p, h2 {
 }
 
 img {
-  width: 1220px;
+  width: 1120px;
   border-radius: 28px;
+}
+
+footer img {
+  width: 16px;
 }
 
 
