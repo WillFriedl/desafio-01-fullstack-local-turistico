@@ -21,21 +21,77 @@ body {
 
 header p {
   text-align: center;
-  margin-bottom: 104px;
+  margin-bottom: 40px;
 }
 
 header legend {
-  margin-bottom: 2px;
+  margin-bottom: 8px;
 }
 
 header img {
   margin: 40px 0 24px;
 }
 
+#about {
+  margin-bottom: 64px;
+}
+
+#about p {
+  margin: 8px 0 64px;
+}
+
+#about legend {
+  margin-top: 64px;
+}
+section h1 {
+  margin-bottom: 4px;
+}
+
+section p {
+  margin-bottom: 16px;
+}
+
+.container {
+  width: 1120px;
+  height: 350px;
+}
+
+section img {
+  width: 1120px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 20px;
+}
+
+section + section {
+  margin-top: 48px;
+}
+
+section ul {
+  margin-left: 35px;
+  font-weight: bold;
+  color: #0C51A7;
+}
+
+#cards {
+  margin-bottom: 40px;
+}
+
+main p {
+  text-align: center;
+  margin-top: 40px;
+}
+
+li::marker {
+  color: #333333;
+}
+
 legend {
   text-transform: uppercase;
   font-weight: bold;
   color: #E1624F;
+  margin-bottom: 2px;
 }
 
 h1 {
