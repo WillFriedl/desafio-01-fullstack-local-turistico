@@ -27,8 +27,7 @@ Durante o desenvolvimento, foram aplicados conceitos de:
 
 ## 📸 Prévia do projeto
 
-> *<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/69415499-650e-4db1-8b8c-9987f8162584" />
-*
+> *<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/69415499-650e-4db1-8b8c-9987f8162584" />*
 
 ## 🚀 Como visualizar
 
