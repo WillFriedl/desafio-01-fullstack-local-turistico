@@ -15,8 +15,8 @@ body {
 #page {
   width: 1280px;
   background-color: white;
-  margin: 88px auto;
-  padding: 88px 80px;
+  margin: 88px auto 48px;
+  padding: 88px 80px 48px;
 }
 
 header p {
@@ -51,11 +51,6 @@ section p {
   margin-bottom: 16px;
 }
 
-.container {
-  width: 1120px;
-  height: 350px;
-}
-
 section img {
   width: 1120px;
   height: 350px;
@@ -78,8 +73,7 @@ section ul {
   margin-bottom: 40px;
 }
 
-main p {
-  text-align: center;
+.container p {
   margin-top: 40px;
 }
 
@@ -108,7 +102,14 @@ img {
   border-radius: 28px;
 }
 
+footer {
+  text-align: center;
+  color: #333333;
+  margin-top: 65px;
+}
+
 footer img {
+  vertical-align: middle;
   width: 16px;
 }
 
