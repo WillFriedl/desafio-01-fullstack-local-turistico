@@ -59,6 +59,14 @@ section img {
   margin-bottom: 20px;
 }
 
+section:nth-child(1) img {
+  object-position: 50% 48%;
+}
+
+section:nth-child(3) img {
+  object-position: 50% 85%;
+}
+
 section + section {
   margin-top: 48px;
 }
@@ -74,11 +82,24 @@ section ul {
 }
 
 .container p {
+  text-align: center;
   margin-top: 40px;
 }
 
 li::marker {
   color: #333333;
+}
+
+#color-list li:nth-child(1) {
+  color: #591B98;
+}
+
+#color-list li:nth-child(2) {
+  color: #E5245E;
+}
+
+#color-list li:nth-child(3) {
+  color: #E95E10;
 }
 
 legend {
@@ -111,6 +132,7 @@ footer {
 footer img {
   vertical-align: middle;
   width: 16px;
+  text-align: center;
 }
 
 
