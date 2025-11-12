@@ -1,4 +1,4 @@
-# 🌎 Desafio 01 — Local Turístico Roacketseat
+# 🌎 Desafio 01 Rocketseat — Local Turístico
 
 Projeto desenvolvido como parte do **Desafio 01** do curso **Full Stack**, com o objetivo de construir uma página estática apresentando um **local turístico**.
 
