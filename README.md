@@ -27,7 +27,8 @@ Durante o desenvolvimento, foram aplicados conceitos de:
 
 ## 📸 Prévia do projeto
 
-> *(adicione aqui uma captura de tela ou link para o GitHub Pages, se publicar futuramente)*
+> *<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/69415499-650e-4db1-8b8c-9987f8162584" />
+*
 
 ## 🚀 Como visualizar
 
